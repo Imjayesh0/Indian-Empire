@@ -1,0 +1,53 @@
+html
+{
+	font font-family: sans-serif;
+	background: navajowhite;
+}
+
+body
+{
+	background color: navajowhite;
+
+
+}
+.home
+{
+	background-color:navajowhite;
+	background-size: 100%;
+	height: 820px;
+	background-image:url("photos/Mughalempire.jpg");
+}
+.home1 
+{
+	color: red;
+	font-size: 25px;
+	letter-spacing: .7px;
+	padding: 10px 100px 100px 100px;
+}
+
+
+.home2
+{
+	color: red;
+	font-size: 25px;
+	letter-spacing: .7px;
+	padding: 10px 100px 100px 100px;
+}
+.dynasty
+{
+	color: black;
+	font-size: 60px;
+}
+
+.emperor
+{
+	color: black;
+	font-size: 60px;
+	margin-top: 60px;
+}
+h1 
+{
+	font-size: 40px;
+	color: black;
+	padding-top: 30px;
+}

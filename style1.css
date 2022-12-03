@@ -1,0 +1,124 @@
+html
+{
+	font-family: sans-serif;
+}
+body
+{
+	background: navajowhite;
+}
+/*start home*/
+#home 
+{
+	background-color:  white;
+	background-size: 100%;
+	height: 900px;
+	background-image: url("photos/A Brief History of India’s Gwalior Fort (2).jpg");
+	background-origin: unset;
+
+
+}
+#home h1
+{
+	text-align: left;
+	color:#FF4500;
+	font-family:fantasy ;
+	font-size: 120px;
+	text-align: center;
+	letter-spacing: 3px;
+	margin-top: -.09%;
+}
+#home h2
+{
+	font-size:25px;
+	color:#ffffff;
+	margin-top: 400px;
+	margin-left: 180px;
+	margin-right: 180px;
+
+}
+
+.about  h2
+{
+	color:#0000CD;
+	margin-left: 80px;
+	margin-top: 200px;
+
+	
+	
+}
+
+.main , .main2, .main3 , .main4 ,.main5
+{
+	background-color: navajowhite;
+	background-size: auto;
+	height:auto;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	margin-top: 70px;
+
+	
+	
+
+
+}
+ .main , .main2 ,.main3 ,.main4 , .main5 ,img{
+ 	margin-top: 0px;
+	margin-left: 40px;
+	
+	
+
+}
+.main h1{
+	text-align: center;
+	margin-left: 200px;
+
+
+}
+.about-text p
+{
+	color:black;
+	font-size: 25px;
+	margin-left: 60px;
+	text-align: justify;
+}
+
+.main2 p 
+{
+	margin-top: 50px;
+
+}
+.main3 p 
+{
+	margin-top: 60px;
+}
+.main4 p 
+{
+	margin-top: 60px;
+}
+button{
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	border: 2px solid #f9004d;
+	font-weight: bold;
+	padding: 13px 30px;
+	border-radius: 30px;
+	transition: 1s;
+	margin-top: 10%;
+	margin-left: 80%;	
+
+}
+button:hover{
+	background-color: #f9004d;
+	border: 2px solid white;
+	cursor: pointer;
+	text-decoration: underline;
+	color: black;
+}
+/*.extra
+{
+	margin-left: 1000px;
+	
+}*/
+

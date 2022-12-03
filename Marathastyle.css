@@ -1,0 +1,107 @@
+html
+{
+	font-family: sans-serif;
+	background-color: navajowhite;
+}
+body
+{
+	background color: navajowhite;
+	
+
+}
+#home
+{
+	background-color:navajowhite;
+	background-size: 100%;
+	height: 1100px;
+	background-image:url("photos/shivajimaharaj.jpg");
+
+
+}
+#home h1
+{
+	color: #ffffff;
+	font-size: 100px;
+	text-align: center;
+	padding-top: 85px;
+	letter-spacing: 50px;
+	margin-left: 85px;
+	font-style: inherit ;
+
+}
+.home2 
+{
+	background-color:navajowhite;
+	background-size: 100%;
+	height: auto;
+
+	padding-top: 30px;
+	
+}
+.emperor 
+{
+	color: black;
+}
+.home2 ol 
+{
+	color: black;
+	margin-left: 50px;
+}
+.home2 ul li 
+{
+	font-size: 40px;
+	line-height: 50px;
+	letter-spacing: 0.7px;
+
+}
+table
+{
+	width:100%;
+	margin-top: 75px;
+}
+th 
+{
+	
+	color: black;
+	font-size: 40px;
+}
+table th, td
+{
+	border: 3px solid black;
+	border-collapse: collapse;
+}
+td
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+
+.tablee li 
+{
+	font-size: 60px;
+	margin-left: 25px;
+	margin-top: 100px;
+	color:#000080;
+	font-weight: bolder;
+}
+ .font h1
+{
+	color: red;
+	font-size: 40px;
+	margin-left: 80px;
+	margin-top: 100px;
+} 
+.tablee3 li
+{
+	font-size: 60px;
+	margin-left: 25px;
+	margin-top: 100px;
+	color:#000080;
+	font-weight: bolder;
+
+}
+
+
+
+
